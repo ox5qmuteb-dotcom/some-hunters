@@ -21,7 +21,7 @@
         "faster-webpack-upload-plugin": "^1.2.3",
         "ftps": "^1.2.0",
         "ts-loader": "^9.4.1",
-        "webpack": "^5.75.0",
+        "webpack": "^5.104.1",
         "webpack-cli": "^5.0.0",
         "webpack-ftp-upload-plugin": "^1.0.3"
     }
